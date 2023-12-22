@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+.slide{
+        background-color: rgb(19, 210, 38);
+            color: rgb(0, 0, 0);
+            border: 2px solid rgb(0, 0, 0);
+            border-width: 5px;
+            border-color: rgb(252, 3, 3);
+            border-style: dotted;
+            padding: 16px 20px 23px 27px;
+            padding-top: 16px;
+            padding-left: 23px;
+            padding-right: 28px;
+            padding-bottom: 30px;
+            margin: 30px 40px 50px 60px;
+            margin-top: 14px;
+            margin-left: 18px;
+            margin-right: 20px;
+            margin-bottom: 22px;
+            width: 220px;
+            height: 350px;
+        }
+}
